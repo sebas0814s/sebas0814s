@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Sebastián Gutiérrez</h1>
+<h1 align="center"> Sebastián Gutiérrez</h1>
 <h3 align="center">Backend & Fullstack Developer in progress</h3>
 
 <p align="center">
