@@ -1,19 +1,132 @@
-# 💫 About Me:
-Passionate about technology and problem-solving, I am currently a Software Development student. My focus is on deeply understanding challenges to propose effective solutions. My interest in Software Testing lies in my commitment to quality and my ability to identify and analyze potential points of failure. I am adaptable, enjoy working with others, and I am always ready to take on new challenges and learn the necessary skills to contribute to the success of a development team.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebastian0814s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guti0814) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebas0814s@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sebas0814s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sebas0814s&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas0814s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 👀 Visiting my profile? 
+### You've found a developer in the wild! 🦄
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sebas0814s&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Hey, I'm Sebastián!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1fae1&text=Hey%2C%20I%27m%20Sebasti%C3%A1n%21)](https://pimp-my-readme-next.vercel.app)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+# 🌟 Hey, I'm Sebastián! (aka Sebas)
+
+<img src="https://komarev.com/ghpvc/?username=sebas0814s&label=Visitors&color=00d4aa&style=for-the-badge" alt="visitors"/>
+
+![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=00d4aa&border_color=0d1117&glow_color=00d4aa)
+
+</div>
+
+---
+
+## 📚 Currently Learning / 🔭 Exploring
+
+| 🎯 Focus Area | 💡 What I'm building |
+|--------------|---------------------|
+| 🧪 Software Testing | Automation with Selenium & Cypress |
+| ⚡ Frontend | Angular & Vanilla JS |
+| 📱 Mobile | Dart / Flutter basics |
+| 🗄️  Backend | Node.js & MongoDB |
+
+---
+
+## 🧩 The Real Sebás
+
+```javascript
+const Sebás = {
+  name: "Sebastián Gutiérrez",
+  location: "🌎 Latin America",
+  coffee: ☕ "Yes, all of it",
+  superPower: "Finding bugs at 2am",
+  mood: "😴 but coding",
+  status: "Student of Software Development",
+  
+  // Every developer relates to this:
+  codeReality: "It works on my machine... that's enough, right?",
+  
+  // My debugging process:
+  bugFix: ["Coffee", "Cry", "Restart", "Repeat"],
+  
+  // The real jokes:
+  promises: ["I'll comments later", "I'll refactor soon", "It was working before..."]
+};
+```
+
+---
+
+## 🎮 When I'm Not Coding...
+
+- 🎬 Binging tutorials at 2x speed like I'll actually remember it
+- 📖 Reading clean code books (that I swear I'll finish)
+- 🏋️ Gym to compensate for all the sitting
+- 💭 Daydreaming about finished projects
+- 😴 Sleeping instead of fixing bugs (tomorrow, I swear)
+
+---
+
+## 💺 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?java,python,js,ts,csharp,angular,dart,kotlin,flask,nodejs,mysql,mongodb,git,selenium,cypress&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats 
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sebas0814s&theme=neon&bg_color=0d1117&border_color=00d4aa&show_icons=true&icon_color=00d4aa&title_color=00d4aa" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas0814s&theme=neon&bg_color=0d1117&border_color=00d4aa&layout=compact" height="180"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sebas0814s&theme=neon&column=4&margin-w=10&margin-h=10" width="100%"/>
+
+---
+
+## 🔥 Streak
+
+<img src="https://streak-stats.demolab.com/?user=sebas0814s&theme=neon" />
+
+---
+
+## 🤝 Let's Connect!
+
+<a href="https://instagram.com/sebastian0814s" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/guti0814" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sebas0814s@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+---
+
+<div align="center">
+
+### ✨ Bonus
+
+```javascript
+// TODO: Write better bio 
+// TODO: Actually finish that tutorial
+// TODO: Start the project I keep postponing
+// TODO: Remember to eat lunch
+
+// BUT FIRST... ☕
+
+// Thanks for visiting! 👋
+// Come back soon~ 
+
+```
+
+<img src="https://komarev.com/ghpvc/?username=sebas0814s&label=Thanks+for+viewing&color=00d4aa&style=plastic" alt="thanks"/>
+
+</div>
+
+---
